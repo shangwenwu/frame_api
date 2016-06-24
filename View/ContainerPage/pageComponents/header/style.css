@@ -1,0 +1,40 @@
+#header{
+    line-height: 60px;
+    background-color: #0787c1;
+    border-bottom: 1px solid #0197b7;
+    background: -webkit-linear-gradient(#14d2fb, #03b4da); 
+    background: -o-linear-gradient(#14d2fb, #03b4da); 
+    background: -moz-linear-gradient(#14d2fb, #03b4da); 
+    background: linear-gradient(#14d2fb, #03b4da);
+
+    background: -webkit-linear-gradient(#46b4d0, #25accf); 
+    background: -o-linear-gradient(#46b4d0, #25accf); 
+    background: -moz-linear-gradient(#46b4d0, #25accf); 
+    background: linear-gradient(#46b4d0, #25accf);
+    border-top:1px solid #67c6db;
+    border-bottom:1px solid #119bbe;
+    box-shadow: 0 -1px 0 0 #67c6db inset;
+    height: 60px;
+    overflow:hidden;
+
+}
+#header p{
+    color: white;
+    font-size: 24px;
+    text-indent: 30px;
+    text-shadow: 2px 2px 2px #0276aa;
+}
+#header p a:hover{
+    text-decoration: none;
+}
+#header .link{
+    margin-top: 2px;
+}
+#header .link a{
+    color: #f5f5f5;
+    font-size: 14px;
+}
+#header .link a:hover{
+    color: white;
+    text-decoration: none;
+}
